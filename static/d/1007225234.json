@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$path\" is not defined by operation \"SiteTitleQuery\".","locations":[{"line":7,"column":43},{"line":1,"column":1}]}]}

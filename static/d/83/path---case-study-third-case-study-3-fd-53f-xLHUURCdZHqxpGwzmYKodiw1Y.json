@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$category\" is never used in operation \"StudyByPath\".","locations":[{"line":3,"column":3}]},{"message":"Variable \"$tags\" is never used in operation \"StudyByPath\".","locations":[{"line":4,"column":3}]}],"pageContext":{"category":"Support"}}

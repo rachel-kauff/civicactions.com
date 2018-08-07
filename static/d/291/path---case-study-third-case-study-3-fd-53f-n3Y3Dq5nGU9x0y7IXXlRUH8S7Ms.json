@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$secondary_category\" is not defined by operation \"StudyByPath\".","locations":[{"line":33,"column":82},{"line":1,"column":1}]},{"message":"Variable \"$tags\" is never used in operation \"StudyByPath\".","locations":[{"line":4,"column":3}]}],"pageContext":{"category":"Support"}}

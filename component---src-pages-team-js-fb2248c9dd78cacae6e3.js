@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{211:function(e,o,t){"use strict";t.r(o);var n=t(1),r=t.n(n),a=(t(220),t(219));o.default=function(){return r.a.createElement(a.a,{heroTitle:"Our Team",heroSubtitle:"We are a fun loving, open hearted group of civic technology professionals committed to making life better for our clients and each other."})}}}]);
+//# sourceMappingURL=component---src-pages-team-js-fb2248c9dd78cacae6e3.js.map

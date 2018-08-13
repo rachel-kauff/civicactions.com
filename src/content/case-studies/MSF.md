@@ -2,7 +2,7 @@
 path: "/case-study/msf"
 type:  "case-study"
 title: "Speaking up for human rights"
-client_name: "Médecins Sans Frontières USA (MSF)"
+client_name: "Médecins Sans Frontières USA"
 preview_image: LINCS1.jpg
 project: "DoctorsWithoutBorders.org"
 website: "https://doctorswithoutborders.org/"
